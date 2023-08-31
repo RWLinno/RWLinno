@@ -1,7 +1,6 @@
 ![image](https://github.com/RWLinno/RWLinno/assets/31813433/01d2c92f-2aa3-4371-b329-b3f1247c2de3)<h1>👋Hello, I'm Linno!</h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp;All things come to those who wait.
-🔥Canst thou, O partial sleep, give thy reposeTo the wet sea-boy in an hour so rude,And in the calmest and most stillest night,With all appliances and means to boot,Deny it to a king? Then happy low, lie down!Uneasy lies the head that wears a crown.Uneasy lies the head that wears a crown.🔥
+&nbsp;&nbsp;&nbsp;&nbsp;🔥Canst thou, O partial sleep, give thy reposeTo the wet sea-boy in an hour so rude,And in the calmest and most stillest night,With all appliances and means to boot,Deny it to a king? Then happy low, lie down!Uneasy lies the head that wears a crown.Uneasy lies the head that wears a crown.🔥
 
 
 <h3>About me:</h3>
