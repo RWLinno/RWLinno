@@ -22,6 +22,7 @@
 - [Game/Spring-End](https://github.com/RWLinno/Spring-End) - Indie game made with RPG Maker, need to reset and find English translation.
 - [Game/LinnoChess](https://github.com/RWLinno/LinnoChess) - Practice making mini-games with Unity.
 - [Research/Forecasting-Model-of-Wheat-Price](https://github.com/RWLinno/Forecasting-Model-of-Wheat-Price) - This project is aimed at regulating supply and demand in the wheat market, regulating pricing in the wheat market and ensuring national food security.
+- [Research/Intelligent-Assisted-Diagnosis-of-Degenerative-OA](https://github.com/RWLinno/Intelligent-Assisted-Diagnosis-of-Degenerative-OA) - Feature engineering and deep learning techniques were used to tackle a multi-label classification task, and models were trained to predict degenerative osteoarthropathies using a TCM dataset from a local hospital.
 - [Research/IVDPS](https://github.com/RWLinno/IVDPS) - An Integrated Visual-data Processing System supporting DIP / SA / emotion recognition.
 - [Research/Simple-animal-recognition-system](https://github.com/RWLinno/Simple-animal-recognition-system) - My Expert Systems coursework on a simple animal identification system using PyQT.
 - [Tool/sojump-helper](https://github.com/RWLinno/sojump-helper) - This is a tool for scoring points quickly in sojump mutual community, which helps you to collect samples faster.
