@@ -26,6 +26,8 @@
 - [Research/ViT-Model-based-Medical-Image-Assisted-Diagnostic-System](https://github.com/RWLinno/ViT-Model-based-Medical-Image-Assisted-Diagnostic-System) - The aim of this project is to apply the ViT model to the medical field to process different types of medical images, such as CT, MRI and radiographs, in order to assist in medical image diagnosis.
 - [Research/IVDPS](https://github.com/RWLinno/IVDPS) - An Integrated Visual-data Processing System supporting DIP / SA / emotion recognition.
 - [Research/Simple-animal-recognition-system](https://github.com/RWLinno/Simple-animal-recognition-system) - My Expert Systems coursework on a simple animal identification system using PyQT.
+- [Research/Library-Management-System](https://github.com/RWLinno/Library-Management-System)) - Windows programming course design, based on .NET, C#, MySQL, Windows Forms implementation of the library management system.
+- [Research/student-course-choosing](https://github.com/RWLinno/student-course-choosing) - Collaborative development of student course selection system, I am mainly responsible for the design and development of MySQL database.
 - [Tool/sojump-helper](https://github.com/RWLinno/sojump-helper) - This is a tool for scoring points quickly in sojump mutual community, which helps you to collect samples faster.
 - [Competition/MCM](https://github.com/RWLinno/MCM) - My first experience in the MCM, and eventually won the H Prize.
 
