@@ -6,7 +6,7 @@
 <h3>About me:</h3>
 
 - 📖 Background:
-  2020-2024 JNU - CS Department - Network Engineering
+  2020-2024 JNU - CS Department - Network Engineering \\
   2024-2026 HKUST(GZ) - Data Science & Analysis - MPhil
 
 - 💼 My Work Now: Being DSA Mphil in [CityMind](https://citymind.top/about-us/)
@@ -17,6 +17,9 @@
 
 - 💬 Connect Me: [rwlinno@gmail.com](rwlinno@gmail.com)
 
+<h3>Publication List:</h3>
+Low-rank Adaptation for Spatio-Temporal Forecasting
+Cross Spatial and Time: A Spatio-Temporal Unitized Model for Traffic Flow Forecasting
 
 <h3>Project List:</h3>
 
