@@ -9,7 +9,7 @@
   2020-2024 JNU - CS Department - Network Engineering \\
   2024-2026 HKUST(GZ) - Data Science & Analysis - MPhil
 
-- 💼 My Work Now: Being DSA Mphil in [CityMind](https://citymind.top/about-us/)
+- 💼 Status: Being a second-year DSA MPhil in [CityMind](https://citymind.top/about-us/) at the Hong Kong University of Science and Technology (Guangzhou). I will start my joint Ph.D. program between CUHK and Knowin AI in 2026Fall.
 
 - 🌍 Personal Website: [Here](https://rwlinno.github.io/)
 
@@ -17,11 +17,7 @@
 
 - 💬 Connect Me: [rwlinno@gmail.com](rwlinno@gmail.com)
 
-<h3>Publication List:</h3>
-Low-rank Adaptation for Spatio-Temporal Forecasting
-Cross Spatial and Time: A Spatio-Temporal Unitized Model for Traffic Flow Forecasting
-
-<h3>Project List:</h3>
+<h3>Github Project List:</h3>
 
 - [Game/Orphan-of-the-Petal](https://github.com/RWLinno/Orphan-of-the-Petal) - A masterpiece of personal indie gaming using RPG Maker.
 - [Game/Spring-End](https://github.com/RWLinno/Spring-End) - Indie game made with RPG Maker, need to reset and find English translation.
